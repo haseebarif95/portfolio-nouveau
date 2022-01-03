@@ -1,0 +1,60 @@
+img{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+html{
+    background-image: url(https://www.unesourisetmoi.info/data/medias/photos/164/fond-d-ecran-ordinateur-gratuit_1.jpg);
+}
+
+img {
+	width: 100px;
+	height: 100px;
+    vertical-align:middle;
+}
+
+body{
+    font: 1.6rem arial;
+    margin: 0rem;
+}
+
+
+ol, ul, li{
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2{
+    color: rgb(252, 247, 247);
+    margin: 30px;
+    padding: 6px;
+    list-style: none;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(135, 238, 135);
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(17, 0, 0);
+    margin: 30px;
+
+    
+}
+/* theme */
+header, h1{
+    background-color: rgb(17, 0, 0);
+    line-height: 6.5rem;
+    font-weight: normal;
+    color: rgb(248, 247, 247);
+
+}
+
+main{
+    max-width: 130.0rem;
+    margin: 5.0rem auto;
+    overflow: hidden;
+    background-color: rgba(48, 45, 47, 0.719);
+}
